@@ -1,2 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&family=Ysabeau:wght@1;200;400&display=swap');
 
+/* Top section font  */
+/* font-family: 'Oooh Baby', cursive; */
+
+/* Font everywhere else  */
+/* font-family: 'Ysabeau', sans-serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ysabeau', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
