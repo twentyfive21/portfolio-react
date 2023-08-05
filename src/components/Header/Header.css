@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: pink;
     height: 6vh;
     padding: 0px 30px;
 }
