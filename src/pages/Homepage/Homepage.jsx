@@ -6,9 +6,9 @@ import './Homepage.css'
 
 function Homepage() {
   return (
-    <div>
-      <h1>Front end Developer</h1>
-      <p>Homepage</p>
+    <div className='intro-container'>
+      <h1>Hi, I'm Tina <br/>A Frontend Developer.</h1>
+    
       {/* <img src={regular} /> */}
     </div>
   )
