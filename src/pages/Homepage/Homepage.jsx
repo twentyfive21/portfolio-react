@@ -15,6 +15,7 @@ function Homepage() {
       <h1>Hi, I'm Tina <br/>A Frontend Developer.</h1>
       <img src={green} />
       </div>
+      <h3>Passionately creating captivating websites that foster meaningful connections.</h3>
     </div>
   )
 }

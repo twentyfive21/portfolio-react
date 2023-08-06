@@ -3,6 +3,11 @@ h1 {
     letter-spacing: 4px;
     font-size: 3rem;
 }
+h3 {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    padding: 0px 80px;
+}
 .intro-container {
     display: flex;
     flex-direction: column;
@@ -13,19 +18,15 @@ h1 {
 .top-section {
     display: flex;
 }
-h1 {
-    animation: write 1s forwards;
-  }
-  
-  @keyframes write {
-    0% {
-      text-shadow: none;
+
+@media (max-width: 550px) {
+    h1 {
+        letter-spacing: 4px;
+        font-size: 2rem;
     }
-    100% {
-      text-shadow: 
-         -1px -1px 0 black,  
-          1px -1px 0 black,
-          -1px 1px 0 black,
-           1px 1px 0 black; 
+    h3 {
+        font-size: 1.2rem;
+        letter-spacing: 1px;
+        padding: 5px 18px;
     }
-  }
+}
