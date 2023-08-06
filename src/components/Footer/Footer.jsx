@@ -8,10 +8,13 @@ import { BsFlower1 } from "react-icons/bs";
 
 function Footer() {
   return (
-    <footer>
+    <footer className='footer-container'>
+      <div>
       <a href='https://github.com/twentyfive21'><FaGithub /></a>
       <a href='https://www.linkedin.com/in/tina-nguyen-393b7b237/'><BsLinkedin /></a>
       <a href='https://bmc.link/twentyfive21'><BsFlower1 /></a>
+      </div>
+      <p>&#169; 2023 Tina Nguyen </p>
     </footer>
   )
 }
