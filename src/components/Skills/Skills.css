@@ -1,4 +1,12 @@
 .skills {
  display: flex;
  justify-content: center;
+ align-items: center;
+}
+.skills img {
+    padding: 0px 50px;
+    height: 64px;
+}
+.skills img:first-child{
+    height: 70px;
 }
