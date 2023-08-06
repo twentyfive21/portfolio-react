@@ -11,9 +11,9 @@ function Homepage() {
   return (
     <div className='intro-container'>
       <div className='top-section'>
-      <img src={yellow} />
+      <img src={yellow} className='flowers'/>
       <h1>Hi, I'm Tina <br/>A Frontend Developer.</h1>
-      <img src={green} />
+      <img src={green} className='flowers' />
       </div>
       <h3>Passionately creating captivating websites that foster meaningful connections.</h3>
     </div>
