@@ -1,0 +1,21 @@
+.filter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.filter-container p{
+    padding: 0px 15px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+.work-container h1 {
+    text-align: center;
+}
+.work-container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+
