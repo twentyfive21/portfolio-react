@@ -1,47 +1,45 @@
-import green from '../assets/green.png'
+import cooking from '../assets/projects/cooking.png'
+import lgl from '../assets/projects/lgl.png'
+import list from '../assets/projects/list.png'
+import nasa from '../assets/projects/nasa.png'
+import polar from '../assets/projects/polar.png'
 
 const data = [
     { 
     key: 0,
     name: 'Polaroid Palette',
     category: 'react', 
-    img: green,
+    img: polar,
     url: 'https://polaroidpalette.netlify.app'
     },
     {
     key: 1,
     name: 'Nasa Astronomy',
     category: 'JavaScript', 
-    img: green,
+    img: nasa,
     url: 'https://explore-astronomy.netlify.app/'
     },
     {
     key: 2,
     name: 'To-do List',
     category: 'JavaScript', 
-    img: green,
+    img: list,
     url: 'https://todolistbytina.netlify.app/' 
     },
     {
     key: 3,
     name: 'LGL',
     category: 'HTML & CSS', 
-    img: green,
+    img: lgl,
     url: 'https://lglbyevan.com/' 
     },
     {
     key: 4,
     name: 'Sweet Berries',
     category: 'HTML & CSS', 
-    img: green,
+    img: cooking,
     url: 'https://sweetberries.netlify.app/' 
     },
-    {
-    key: 5,
-    name: 'Sweets Shop',
-    category: 'HTML & CSS', 
-    img: green,
-    url: 'https://sweetlife.netlify.app/' 
-    }
 ]
+
 export default data 
