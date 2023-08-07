@@ -2,6 +2,7 @@
  display: flex;
  justify-content: center;
  align-items: center;
+ padding-bottom: 170px;
 }
 .skills img {
     padding: 0px 50px;
