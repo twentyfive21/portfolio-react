@@ -3,7 +3,6 @@ import './Work.css'
 import data from '../../utilities/data'
 
 function Work() {
-  console.log(data)
   return (
    
     <div className='work-container'>
@@ -13,7 +12,7 @@ function Work() {
       <p>React</p>
       <p>Javascript</p>
       <p>HTML & CSS</p>
-      <img src={data[0].img} alt="" />
+      {/* <img src={data[0].img} alt="" /> */}
     </div>
     </div>
   )
