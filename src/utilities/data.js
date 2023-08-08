@@ -8,14 +8,14 @@ const data = [
     { 
     key: 1,
     name: 'Polaroid Palette',
-    category: 'react', 
+    category: 'React', 
     img: polar,
     url: 'https://polaroidpalette.netlify.app'
     },
     {
     key: 2,
     name: 'Nasa Astronomy',
-    category: 'JavaScript', 
+    category: 'Javascript', 
     img: nasa,
     url: 'https://explore-astronomy.netlify.app/'
     },
@@ -29,7 +29,7 @@ const data = [
     {
     key: 4,
     name: 'To-do List',
-    category: 'JavaScript', 
+    category: 'Javascript', 
     img: list,
     url: 'https://todolistbytina.netlify.app/' 
     },
