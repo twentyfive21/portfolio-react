@@ -4,11 +4,13 @@ import data from '../../utilities/data'
 
 
 function Work() {
+  // setting state to store users choice in filter 
 const [selection, setSelection] = useState('');
+// getting value from the selection
 const userChoice = e => {setSelection(e.target.innerText)}
-
+// filtering through the data with selection
 const selectionData = data.filter(project => project.category == selection)
-
+// sets the selection to all when page loads 
 useEffect(
   () => {
    setSelection('All')
