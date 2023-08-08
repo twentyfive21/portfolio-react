@@ -6,25 +6,18 @@ import polar from '../assets/projects/polar.png'
 
 const data = [
     { 
-    key: 0,
+    key: 1,
     name: 'Polaroid Palette',
     category: 'react', 
     img: polar,
     url: 'https://polaroidpalette.netlify.app'
     },
     {
-    key: 1,
+    key: 2,
     name: 'Nasa Astronomy',
     category: 'JavaScript', 
     img: nasa,
     url: 'https://explore-astronomy.netlify.app/'
-    },
-    {
-    key: 2,
-    name: 'To-do List',
-    category: 'JavaScript', 
-    img: list,
-    url: 'https://todolistbytina.netlify.app/' 
     },
     {
     key: 3,
@@ -35,6 +28,13 @@ const data = [
     },
     {
     key: 4,
+    name: 'To-do List',
+    category: 'JavaScript', 
+    img: list,
+    url: 'https://todolistbytina.netlify.app/' 
+    },
+    {
+    key:5,
     name: 'Sweet Berries',
     category: 'HTML & CSS', 
     img: cooking,
