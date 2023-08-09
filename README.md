@@ -4,3 +4,4 @@
 * https://www.flaticon.com/free-icons/css Css icons created by Freepik - Flaticon
 * https://www.flaticon.com/free-icons/javascript Javascript icons created by Freepik - Flaticon
 * https://www.flaticon.com/free-icons/figma Figma icons created by Freepik - Flaticon
+* https://hype4.academy/tools/glassmorphism-generator
