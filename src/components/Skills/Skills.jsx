@@ -9,12 +9,15 @@ import figma from '../../assets/figma.png'
 
 function Skills() {
   return (
+    <div className='skills-container'>
+      <h1>Tech Stack</h1>
     <div className='skills'>
        <img src={reactImg} className='react-img' alt='react logo'/>
        <img src={js} alt='javascript logo'/>
        <img src={css} alt='css logo'/>
        <img src={html} alt='html logo'/>
        <img src={figma} alt='figma logo'/>
+    </div>
     </div>
   )
 }
