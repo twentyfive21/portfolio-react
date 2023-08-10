@@ -1,22 +1,31 @@
 .skills {
- display: flex;
- justify-content: center;
- align-items: center;
- padding-bottom: 50px;
-}
-.skills img {
-    padding: 0px 50px;
-    height: 64px;
-}
-.skills img:first-child{
-    height: 70px;
-}
-.skills-container h1 {
-    text-align: center;
-    padding: 30px 0px 20px 0px;
-}
-.skills-container {
-    background: rgba( 255, 255, 255, 0.15 );
-    backdrop-filter: blur( 0px );
-    -webkit-backdrop-filter: blur( 0px );
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+   }
+   .skills img {
+       padding: 10px 10px;
+       height: 90px;
+       margin: 0px 30px;
+   }
+   .skills img:first-child{
+       height: 94px;
+       padding: 5px 5px;
+   }
+   .skills-container h1 {
+       text-align: center;
+       padding: 30px 0px 20px 0px;
+   }
+   .skills-container {
+       background: rgba( 255, 255, 255, 0.1 );
+       backdrop-filter: blur( 0px );
+       -webkit-backdrop-filter: blur( 0px );
+   }
+   .skills-container img {
+       background: rgba( 255, 255, 255, 0.25 );
+       box-shadow: 0 8px px 0 rgba( 31, 38, 135, 0.37 );
+       backdrop-filter: blur( 20px );
+       -webkit-backdrop-filter: blur( 20px );
+       border-radius: 15px;
+   }
