@@ -2,7 +2,7 @@
  display: flex;
  justify-content: center;
  align-items: center;
- padding-bottom: 100px;
+ padding-bottom: 50px;
 }
 .skills img {
     padding: 0px 50px;
@@ -16,9 +16,7 @@
     padding: 30px 0px 20px 0px;
 }
 .skills-container {
-    background: rgba( 214, 247, 171, 0.35 );
+    background: rgba( 255, 255, 255, 0.15 );
     backdrop-filter: blur( 0px );
     -webkit-backdrop-filter: blur( 0px );
-    border-radius: 10px;
-    
 }
