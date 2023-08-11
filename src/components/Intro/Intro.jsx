@@ -1,12 +1,9 @@
 import React from 'react'
-import './Homepage.css'
-// import regular from "../../assets/regular.png"
+import './Intro.css'
 import yellow from "../../assets/yellow.png"
 import green from "../../assets/green.png"
 
-
-
-function Homepage() {
+function Intro() {
   return (
     <div className='intro-container'>
       <div className='top-section'>
@@ -19,4 +16,4 @@ function Homepage() {
   )
 }
 
-export default Homepage
+export default Intro
