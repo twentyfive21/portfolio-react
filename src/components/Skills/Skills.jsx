@@ -12,7 +12,7 @@ import git from '../../assets/git2.png'
 function Skills() {
   return (
     <div className='skills-container'>
-      <h1>Tech Stack</h1>
+      <h2>Tech Stack</h2>
     <div className='skills'>
        <img src={reactImg} className='react-img' alt='react logo'/>
        <img src={js} alt='javascript logo'/>
