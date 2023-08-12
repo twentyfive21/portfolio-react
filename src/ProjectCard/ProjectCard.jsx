@@ -4,7 +4,7 @@ function ProjectCard({project}) {
     <a href={project.url}> 
     <img src={project.img}  />
     </a>  
-    <p>{project.name}</p>
+    <h2>{project.name}</h2>
     <p>{project.category}</p> 
     </section>
   )
