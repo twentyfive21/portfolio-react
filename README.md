@@ -6,3 +6,4 @@
 * https://www.flaticon.com/free-icons/figma Figma icons created by Freepik - Flaticon
 * https://hype4.academy/tools/glassmorphism-generator
 * https://kdesign.co/blog/pastel-color-palette-examples/
+* Photo by Pew Nguyen: https://www.pexels.com/photo/people-near-bar-stools-244133/
