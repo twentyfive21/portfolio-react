@@ -13,13 +13,15 @@
 .filter-container p:hover {
     opacity: 0.2;
 }
-.work-container h1 {
+.work-container h2 {
     text-align: center;
+    font-family: 'Oooh Baby', cursive;
+    font-size: 3rem;
 }
 .work-container {
     display: flex;
     flex-direction: column;
-    padding: 100px 0px 50px 0px;
+    padding: 120px 0px 50px 0px;
     background: rgba( 255, 255, 255, 0.1 );
     backdrop-filter: blur( 0px );
     -webkit-backdrop-filter: blur( 0px );
@@ -49,7 +51,7 @@
     -webkit-backdrop-filter: blur( 20px );
     border-radius: 10px;
 }
-.projects-container section h2 {
+.projects-container section h3 {
     letter-spacing: 1px;
 }
 .projects-container section p {
