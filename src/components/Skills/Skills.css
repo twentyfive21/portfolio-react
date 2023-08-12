@@ -1,13 +1,13 @@
 .skills {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
-    padding-bottom: 50px;
    }
    .skills img {
        padding: 10px 10px;
        height: 90px;
-       margin: 0px 30px;
+       margin: 10px 30px;
    }
    .skills img:first-child{
        height: 94px;
@@ -21,6 +21,7 @@
        background: rgba( 255, 255, 255, 0.1 );
        backdrop-filter: blur( 0px );
        -webkit-backdrop-filter: blur( 0px );
+       height: 40vh;
    }
    .skills-container img {
        background: rgba( 255, 255, 255, 0.25 );
