@@ -12,7 +12,7 @@ function Intro() {
       <img src={green} className='flowers' alt='flower'/>
       </div>
       <h3>Passionately creating captivating websites that foster meaningful connections.</h3>
-      <img src={tina} className='intro-pic'/>
+      <img src={tina} className='intro-pic' alt='profile image'/>
     </div>
   )
 }

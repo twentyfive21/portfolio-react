@@ -58,4 +58,11 @@
     color: #9EA1D4;
     letter-spacing: 2px;
 }
+@media (max-width: 550px) {
+    .projects-container img {
+        width: 200px;
+        object-fit: contain;
+        padding-bottom: 10px;
+    }
+}
 
