@@ -49,4 +49,11 @@
     -webkit-backdrop-filter: blur( 20px );
     border-radius: 10px;
 }
+.projects-container section h2 {
+    letter-spacing: 1px;
+}
+.projects-container section p {
+    color: #9EA1D4;
+    letter-spacing: 2px;
+}
 
