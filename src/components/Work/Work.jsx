@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react'
 import './Work.css'
 import data from '../../utilities/data'
+import ProjectCard from '../../ProjectCard/ProjectCard';
 
 
 function Work() {
@@ -29,9 +30,9 @@ useEffect(
     <div className='projects-container'>
       {
         selection == 'All' ?
-        data.map(project => <img src={project.img} key={project.key} />)
+        data.map(project => <ProjectCard project={project} key={project.key}/>)
         :
-        selectionData.map(project => <img src={project.img} key={project.key} />)
+        selectionData.map(project => <ProjectCard project={project} key={project.key}/>)
       }
     </div>
     </div>
