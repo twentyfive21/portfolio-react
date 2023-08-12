@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import './Work.css'
 import data from '../../utilities/data'
-import ProjectCard from '../../ProjectCard/ProjectCard';
+import ProjectCard from '../ProjectCard/ProjectCard.jsx'
 
 
 function Work() {
