@@ -1,7 +1,7 @@
-import React from 'react'
 import './Intro.css'
 import yellow from "../../assets/yellow.png"
 import green from "../../assets/green.png"
+import tina from "../../assets/tina.png"
 
 function Intro() {
   return (
@@ -12,6 +12,7 @@ function Intro() {
       <img src={green} className='flowers' alt='flower'/>
       </div>
       <h3>Passionately creating captivating websites that foster meaningful connections.</h3>
+      <img src={tina} className='intro-pic'/>
     </div>
   )
 }
