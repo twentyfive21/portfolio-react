@@ -6,7 +6,8 @@ function About() {
       <img src={aboutpic} alt='about pic'/>
         <div className='about-card'>
         <h2>About</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+        <p>With 1.5+ years of experience in front-end development, I can confidently develop responsive apps that deliver an unparalleled user experience. I strive for excellence in my work, diligently aiming for top-notch quality that consistently surpasses expectations. Known for being approachable and easy-going, I thrive in collaborative settings and excel at building strong relationships with colleagues.
+        </p>
         </div>
     </div>
   )
