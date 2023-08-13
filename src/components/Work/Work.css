@@ -64,5 +64,9 @@
         object-fit: contain;
         padding-bottom: 10px;
     }
+    .filter-container p{
+        padding: 0px 11px;
+        letter-spacing: 0px;
+    }
 }
 
