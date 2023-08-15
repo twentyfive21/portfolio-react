@@ -13,16 +13,18 @@
     text-align: center;
     font-size: 1.1rem;
 }
-.contact-container button {
-    border: none;
-    width: 100px;
-    height: 30px;
-    border-radius: 7px;
-}
-.contact-links button {
-    background-color: transparent;
-}
-.contact-links a, button{
-    margin: 100px 30px;
+
+/* .contact-links p{
+    margin: 100px 20px;
     cursor: pointer;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 15px;
+    padding: 30px 50px;
+    width: 150px;
 }
+.contact-links {
+    display: flex;
+} */
