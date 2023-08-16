@@ -14,8 +14,19 @@
     font-size: 1.1rem;
 }
 
-/* .contact-links p{
-    margin: 100px 20px;
+.contact-links a{
+    margin: 100px 0px;
+    cursor: pointer;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 15px;
+    padding: 30px 50px;
+    width: 150px;
+}
+.contact-links button{
+    margin: 100px 100px;
     cursor: pointer;
     background: rgba( 255, 255, 255, 0.25 );
     box-shadow: 0 8px px 0 rgba( 31, 38, 135, 0.37 );
@@ -27,4 +38,11 @@
 }
 .contact-links {
     display: flex;
-} */
+}
+.contact-links button {
+    border: none;
+}
+.contact-links img {
+    width: 80px;
+    margin-left: -14px;
+}
