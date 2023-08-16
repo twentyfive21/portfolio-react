@@ -36,17 +36,33 @@
 .about-container section img {
     height: 100px;
 }
-@media (max-width: 550px) {
+@media (max-width: 950px) {
     .about-container {
         flex-direction: column;
         align-items: center;
-        padding: 0px 50px 0px 50px;
+        padding: 100px 50px 150px 50px;
         text-align: center;
     }
     .about-card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         padding: 0px;
     }
-    .about-card h2 {
-        letter-spacing: 3px;
+    .about-container section img {
+        display: none;
     }
-}
+   }
+   @media (max-width: 850px) {
+    .about-container section {
+        display: flex;
+        margin-bottom: -30px;
+    }
+   }
+   @media (max-width: 450px) {
+    .about-container {
+        padding: 100px 30px 150px 30px;
+    }.about-card {
+        font-size: 1.1rem;
+    }
+   }
