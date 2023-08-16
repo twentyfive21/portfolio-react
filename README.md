@@ -1,3 +1,5 @@
+# View my site here : https://tinanguyen.netlify.app/
+---
 # Credits 
 * https://www.flaticon.com/free-icons/react" React icons created by Us and Up - Flaticon
 * https://www.flaticon.com/free-icons/web-design Web design icons created by Freepik - Flaticon
