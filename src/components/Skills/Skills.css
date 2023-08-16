@@ -16,14 +16,15 @@
    .skills-container h2 {
        text-align: center;
        font-family: 'Oooh Baby', cursive;
-       padding: 30px 0px 20px 0px;
+       padding: 35px 0px 10px 0px;
        font-size: 3rem;
+       letter-spacing: 3px;
    }
    .skills-container {
        background: rgba( 255, 255, 255, 0.1 );
        backdrop-filter: blur( 0px );
        -webkit-backdrop-filter: blur( 0px );
-       padding: 50px 10px 150px 10px;
+       padding: 0px 10px 150px 10px;
    }
    .skills-container img {
        background: rgba( 255, 255, 255, 0.25 );
