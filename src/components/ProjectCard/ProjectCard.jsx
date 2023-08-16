@@ -1,12 +1,12 @@
 function ProjectCard({project}) {
   return (
+    <a href={project.url}>
     <section>
-    <a href={project.url}> 
     <img src={project.img}  />
-    </a>  
     <h3>{project.name}</h3>
     <p>{project.category}</p> 
     </section>
+    </a>
   )
 }
 
