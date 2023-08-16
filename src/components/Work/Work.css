@@ -18,6 +18,9 @@
     font-family: 'Oooh Baby', cursive;
     font-size: 3rem;
 }
+.work-container h3 {
+    padding-top: 7px;
+}
 .work-container {
     display: flex;
     flex-direction: column;
