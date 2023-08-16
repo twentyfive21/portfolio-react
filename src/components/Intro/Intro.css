@@ -24,17 +24,105 @@ h3 {
     height: 600px;
     margin-bottom: -100px;
 }
-
-@media (max-width: 550px) {
+@media (max-width: 1280px) {
+    .intro-container {
+        padding: 60px 0px 0px 0px;
+    }
+    .intro-pic {
+        margin-top: -130px;
+        height: 500px;
+        margin-bottom: -85px;
+    }
+}
+@media (max-width: 1025px) {
     h1 {
         letter-spacing: 2px;
-        font-size: 1.5rem;
+        font-size: 3rem;
+    }
+    h3 {
+        font-size: 1.3rem;
+    }
+    .flowers {
+        height: 20vh;
+    }
+    .intro-container {
+        padding: 85px 0px 0px 0px;
+    }
+    .intro-pic {
+        margin-top: -120px;
+        height: 500px;
+        margin-bottom: -85px;
+    }
+}
+@media (max-width: 950px) {
+    h1 {
+        font-size: 4rem;
     }
     h3 {
         font-size: 1rem;
-        padding: 5px 20px;
+    }
+    .flowers {
+        height: 12vh;
+    }
+    .intro-container {
+        padding: 200px 0px 0px 0px;
+    }
+    .intro-pic {
+        margin-top: -120px;
+        height: 720px;
+        margin-bottom: -120px;
+    }
+   }
+   @media (max-width: 850px) {
+    h1 {
+        font-size: 3rem;
+    }
+    h3 {
+        font-size: 1.4rem;
+    }
+    .flowers {
+        height: 12vh;
+    }
+    .intro-container {
+        padding: 130px 0px 0px 0px;
+    }
+    .intro-pic {
+        margin-top: -120px;
+        height: 520px;
+        margin-bottom: -85px;
+    }
+   }
+@media (max-width: 550px) {
+    h1 {
+        font-size: 2.3rem;
+    }
+    h3 {
+        font-size: 1rem;
     }
     .flowers {
         height: 9vh;
+    }
+    .intro-container {
+        padding: 120px 0px 0px 0px;
+    }
+}
+@media (max-width: 450px) {
+    h1 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1rem;
+        padding: 0px 20px;
+    }
+    .flowers {
+        height: 10vh;
+    }
+    .intro-container {
+        padding: 120px 0px 0px 0px;
+    }
+    .intro-pic {
+        margin-top: -80px;
+        height: 330px;
+        margin-bottom: -56px;
     }
 }
