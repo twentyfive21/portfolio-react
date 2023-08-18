@@ -5,7 +5,7 @@ import tina from "../../assets/tina.png"
 
 function Intro() {
   return (
-    <div className='intro-container'>
+    <div id='home-section' className='intro-container'>
       <div className='top-section'>
       <img src={yellow} className='flowers' alt='flower'/>
       <h1>Hi, I'm Tina <br/>A Frontend Developer.</h1>
