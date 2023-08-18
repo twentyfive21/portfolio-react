@@ -9,10 +9,6 @@
        height: 90px;
        margin: 10px 30px;
    }
-   .skills img:last-child{
-       height: 90px;
-       padding: 15px 15px;
-   }
    .skills-container h2 {
        text-align: center;
        font-family: 'Oooh Baby', cursive;
@@ -21,10 +17,10 @@
        letter-spacing: 3px;
    }
    .skills-container {
-       background: rgba( 255, 255, 255, 0.1 );
-       backdrop-filter: blur( 0px );
-       -webkit-backdrop-filter: blur( 0px );
-       padding: 0px 10px 150px 10px;
+    background: rgba( 255, 255, 255, 0.25 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+       padding: 0px 10px 20px 10px;
    }
    .skills-container img {
        background: rgba( 255, 255, 255, 0.25 );
