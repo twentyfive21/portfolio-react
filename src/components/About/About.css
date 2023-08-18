@@ -11,8 +11,7 @@
     background: rgba( 232, 197, 228, 0.35 );
     backdrop-filter: blur( 6.5px );
     -webkit-backdrop-filter: blur( 6.5px );
-    padding: 0px 120px;
-    height: 100vh;
+    padding: 150px 120px;
 }
 .about-container img {
     height: 400px;
@@ -73,6 +72,6 @@
     .about-container {
         padding: 100px 30px 150px 30px;
     }.about-card {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
    }
