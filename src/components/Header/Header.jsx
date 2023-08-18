@@ -1,12 +1,13 @@
 import './Header.css'
+import { Link } from 'react-scroll';
 
 function Header() {
   return (
     <div className='header-container'>
-        <a href='#'>Home</a>
-        <a href='#'>Work</a>
-        <a href='#'>About</a>
-        <a href='#'>Contact</a>
+    <Link to='home-section' spy={true} smooth={true} duration={500}>Home</Link>
+    <Link to='work-section'  spy={true} smooth={true} duration={500}>Work</Link>
+    <Link to='about-section'  spy={true} smooth={true} duration={500}>About</Link>
+    <Link to='contact-section' spy={true} smooth={true} duration={500}>Contact</Link>
     </div>
   )
 }
