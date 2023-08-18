@@ -6,7 +6,7 @@ h1 {
 h3 {
     font-size: 1.5rem;
     letter-spacing: 1px;
-    padding: 0px 80px;
+    padding: 10px 80px;
 }
 .intro-container {
     display: flex;
