@@ -3,7 +3,7 @@ import aboutpic from '../../assets/about.png'
 import flowerRed from '../../assets/red.png'
 function About() {
   return (
-    <div className="about-container">
+    <div id='about-section' className="about-container">
       <img src={aboutpic} alt='about pic'/>
         <div className='about-card'>
         <section>
