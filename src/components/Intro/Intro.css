@@ -108,11 +108,11 @@ h3 {
 }
 @media (max-width: 450px) {
     h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     h3 {
         font-size: 1rem;
-        padding: 0px 20px;
+        padding: 0px 10px;
     }
     .flowers {
         height: 10vh;
@@ -122,7 +122,7 @@ h3 {
     }
     .intro-pic {
         margin-top: -80px;
-        height: 330px;
-        margin-bottom: -56px;
+        height: 470px;
+        margin-bottom: -78px;
     }
 }
