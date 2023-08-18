@@ -12,6 +12,7 @@
     backdrop-filter: blur( 6.5px );
     -webkit-backdrop-filter: blur( 6.5px );
     padding: 150px 120px;
+    height: 100vh;
 }
 .about-container img {
     height: 400px;
@@ -63,15 +64,23 @@
    }
    @media (max-width: 450px) {
     .about-container {
-        padding: 100px 30px 150px 30px;
-    }.about-card {
-        font-size: 1.1rem;
+        padding: 0px 50px;
+    }
+    .about-container img {
+        height: 320px;
+    }
+    .about-card {
+        font-size: 1rem;
+    }
+    .about-container h2 {
+        font-size: 2.5rem;
     }
    }
    @media (max-width: 400px) {
     .about-container {
-        padding: 100px 30px 150px 30px;
-    }.about-card {
+        padding: 500px 30px 500px 30px;
+    }
+    .about-card {
         font-size: 1rem;
     }
    }
