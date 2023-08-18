@@ -19,7 +19,7 @@ useEffect(
 )
 
   return (
-    <div className='work-container'>
+    <div id='work-section' className='work-container'>
       <h2>My Work</h2>
      <div className='filter-container'>
       <p onClick={userChoice}>All</p>
