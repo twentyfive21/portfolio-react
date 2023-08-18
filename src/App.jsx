@@ -8,15 +8,16 @@ import About from './components/About/About'
 import Contact from './components/Contact/Contact'
 
 
+
 function App() {
   return (
     <div>
       <Header />
-      <Intro />
+      <Intro id='home-section' />
       <Skills />
-      <Work />
-      <About />
-      <Contact />
+      <Work id='work-section' />
+      <About id='about-section' />
+      <Contact id='contact-section' />
       <Footer />
     </div>
   )
