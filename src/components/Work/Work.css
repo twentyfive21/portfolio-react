@@ -67,6 +67,9 @@
     }
 }
 @media (max-width: 550px) {
+    .projects-container a {
+        width: 100%;
+    }
     .projects-container img {
         width: 280px;
         object-fit: contain;
@@ -84,8 +87,14 @@
     .projects-container  {
         padding: 0px;
     }
+    .projects-container section {
+        margin: 50px 90px;
+    }
 }
 @media (max-width: 450px) {
+    .projects-container section {
+        margin: 50px 40px;
+    }
     .projects-container img {
         width: 250px;
         object-fit: contain;
