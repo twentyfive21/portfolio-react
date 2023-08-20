@@ -1,6 +1,15 @@
-# View my site here : https://tinanguyen.netlify.app/
+## Portfolio Site
 ---
-# Credits 
+## This portfolio site was built with React to showcase my web development projects and skills.
+## View my site here: https://tinanguyen.netlify.app/
+---
+## Homepage - Includes a short bio, skills overview, projects, and contact info.
+### Sections: 
+* Projects - Links to projects built with HTML, CSS, JavaScript, and React.
+* About - Short bio about me.
+* Contact - Form to send a direct email and links to GitHub and LinkedIn.
+---
+## Credits 
 * https://www.flaticon.com/free-icons/react" React icons created by Us and Up - Flaticon
 * https://www.flaticon.com/free-icons/web-design Web design icons created by Freepik - Flaticon
 * https://www.flaticon.com/free-icons/css Css icons created by Freepik - Flaticon
@@ -10,5 +19,5 @@
 * https://kdesign.co/blog/pastel-color-palette-examples/
 * Photo by Pew Nguyen: https://www.pexels.com/photo/people-near-bar-stools-244133/
 * https://www.flaticon.com/free-icons/email" Email icons created by Freepik - Flaticon
-*https://www.flaticon.com/free-icons/linkedin Linkedin icons created by Freepik - Flaticon
-*https://www.flaticon.com/free-icons/github Github icons created by Ruslan Babkin - Flaticon
+* https://www.flaticon.com/free-icons/linkedin Linkedin icons created by Freepik - Flaticon
+* https://www.flaticon.com/free-icons/github Github icons created by Ruslan Babkin - Flaticon
