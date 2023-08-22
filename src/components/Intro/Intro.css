@@ -45,15 +45,15 @@ h3 {
         font-size: 1.3rem;
     }
     .flowers {
-        height: 20vh;
+        height: 13vh;
     }
     .intro-container {
         padding: 85px 0px 0px 0px;
     }
     .intro-pic {
         margin-top: -120px;
-        height: 500px;
-        margin-bottom: -85px;
+        height: 600px;
+        margin-bottom: -100px;
     }
 }
 @media (max-width: 950px) {
