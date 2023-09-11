@@ -3,8 +3,17 @@ import lgl from '../assets/projects/lgl.png'
 import list from '../assets/projects/list.png'
 import nasa from '../assets/projects/nasa.png'
 import polar from '../assets/projects/polar.png'
+import uni from '../assets/projects/uni.png'
 
+// 1140 x 813 
 const data = [
+    // { 
+    //     key: 0,
+    //     name: 'UniLife Housing',
+    //     category: 'React', 
+    //     img: uni,
+    //     url: 'https://github.com/twentyfive21/uniLife'
+    // },
     { 
     key: 1,
     name: 'Polaroid Palette',
