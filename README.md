@@ -6,7 +6,7 @@
 ## Homepage - Includes a short bio, skills overview, projects, and contact info.
 ### Sections: 
 * Projects - Links to projects built with HTML, CSS, JavaScript, and React.
-* About - Short bio about me.
+* About - A short bio about myself. 
 * Contact - Form to send a direct email and links to GitHub and LinkedIn.
 ---
 ## Credits 
