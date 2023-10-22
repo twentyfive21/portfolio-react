@@ -1,15 +1,14 @@
 ## Portfolio Site
 ---
-## This portfolio site was built with React to showcase my web development projects and skills.
-## View my site here: https://tinanguyen.netlify.app/
+### This portfolio site was built with React to showcase my web development projects and skills.
+#### View my site here: https://tinanguyen.netlify.app/
 ---
-## Homepage - Includes a short bio, skills overview, projects, and contact info.
-### Sections: 
+### Overview :
 * Projects - Links to projects built with HTML, CSS, JavaScript, and React.
 * About - A short bio about myself. 
 * Contact - Form to send a direct email and links to GitHub and LinkedIn.
 ---
-## Credits 
+### Credits 
 * https://www.flaticon.com/free-icons/react React icons created by Us and Up - Flaticon
 * https://www.flaticon.com/free-icons/web-design Web design icons created by Freepik - Flaticon
 * https://www.flaticon.com/free-icons/css Css icons created by Freepik - Flaticon
