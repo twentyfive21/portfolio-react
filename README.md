@@ -8,7 +8,7 @@
 * About - A short bio about myself. 
 * Contact - Form to send a direct email and links to GitHub and LinkedIn.
 ---
-### Credits 
+### Credits :
 * https://www.flaticon.com/free-icons/react React icons created by Us and Up - Flaticon
 * https://www.flaticon.com/free-icons/web-design Web design icons created by Freepik - Flaticon
 * https://www.flaticon.com/free-icons/css Css icons created by Freepik - Flaticon
