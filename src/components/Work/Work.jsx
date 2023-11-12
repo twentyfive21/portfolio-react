@@ -23,6 +23,7 @@ useEffect(
       <h2>My Work</h2>
      <div className='filter-container'>
       <p onClick={userChoice}>All</p>
+      <p onClick={userChoice}>Fullstack</p>
       <p onClick={userChoice}>React</p>
       <p onClick={userChoice}>Javascript</p>
       <p onClick={userChoice}>HTML & CSS</p>
