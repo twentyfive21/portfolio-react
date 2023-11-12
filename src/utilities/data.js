@@ -3,17 +3,17 @@ import lgl from '../assets/projects/lgl.png'
 import list from '../assets/projects/list.png'
 import nasa from '../assets/projects/nasa.png'
 import polar from '../assets/projects/polar.png'
-import uni from '../assets/projects/uni.png'
+import insta from '../assets/projects/insta.png'
 
 // 1140 x 813 
 const data = [
-    // { 
-    //     key: 0,
-    //     name: 'UniLife Housing',
-    //     category: 'React', 
-    //     img: uni,
-    //     url: 'https://github.com/twentyfive21/uniLife'
-    // },
+    { 
+        key: 0,
+        name: 'Instagram (sign-up required)',
+        category: 'React', 
+        img: insta,
+        url: 'https://instagram-vite.netlify.app/'
+    },
     { 
     key: 1,
     name: 'Polaroid Palette',
