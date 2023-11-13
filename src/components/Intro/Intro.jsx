@@ -1,7 +1,7 @@
 import './Intro.css'
-import yellow from "../../assets/yellow.png"
-import green from "../../assets/green.png"
-import tina from "../../assets/tina.png"
+import yellow from "../../assets/icons/yellow.png"
+import green from "../../assets/icons/green.png"
+import tina from "../../assets/icons/tina.png"
 
 function Intro() {
   return (

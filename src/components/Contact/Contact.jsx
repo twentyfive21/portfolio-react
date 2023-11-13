@@ -1,10 +1,8 @@
 import './Contact.css'
 import React from 'react'
-import email from '../../assets/email.png'
-import { FaGithub } from "react-icons/fa6";
-import { BsLinkedin } from "react-icons/bs";
-import linkedin from '../../assets/linkedin.png'
-import github from '../../assets/github.png'
+import email from '../../assets/icons/email.png'
+import linkedin from '../../assets/icons/linkedin.png'
+import github from '../../assets/icons/github.png'
 
 
 function Contact() {

@@ -1,12 +1,12 @@
 import './Skills.css'
-import reactImg from '../../assets/reactjs2.png'
-import js from '../../assets/js2.png'
-import css from '../../assets/css2.png'
-import html from '../../assets/html2.png'
-import figma from '../../assets/figma2.png'
-import boot from '../../assets/bootstrap2.png'
-import netlify from '../../assets/netlify2.png'
-import git from '../../assets/git2.png'
+import reactImg from '../../assets/icons/reactjs2.png'
+import js from '../../assets/icons/js2.png'
+import css from '../../assets/icons/css2.png'
+import html from '../../assets/icons/html2.png'
+import figma from '../../assets/icons/figma2.png'
+import boot from '../../assets/icons/bootstrap2.png'
+import netlify from '../../assets/icons/netlify2.png'
+import git from '../../assets/icons/git2.png'
 
 
 function Skills() {
