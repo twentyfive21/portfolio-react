@@ -32,10 +32,9 @@
     height: 100px;
     width: 100px;
     margin: 0px 20px;
-}
-.contact-links button {
     border: none;
 }
+
 @media (max-width: 805px) {
     .contact-container h2 {
         font-size: 3rem;
