@@ -1,6 +1,7 @@
 import './About.css'
 import aboutpic from '../../assets/icons/about.png'
 import flowerRed from '../../assets/icons/red.png'
+
 function About() {
   return (
     <div id='about-section' className="about-container">
