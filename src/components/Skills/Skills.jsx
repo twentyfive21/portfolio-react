@@ -14,17 +14,17 @@ function Skills() {
   return (
     <div className='skills-container'>
       <h2>Tech Stack</h2>
-    <div className='skills'>
-       <img src={reactImg}  alt='react logo'/>
-       <img src={js} alt='javascript logo'/>
-       <img src={graphQL} alt='grapghQL logo'/>
-       <img src={css} alt='css logo'/>
-       <img src={html} alt='html logo'/>
-       <img src={git} alt='git logo'/>
-       <img src={figma} alt='figma logo'/>
-       <img src={netlify} alt='netlify logo'/>
-       <img src={boot} alt='bootstrap logo' />
-    </div>
+      <div className='skills'>
+        <img src={reactImg}  alt='react logo'/>
+        <img src={js} alt='javascript logo'/>
+        <img src={graphQL} alt='grapghQL logo'/>
+        <img src={css} alt='css logo'/>
+        <img src={html} alt='html logo'/>
+        <img src={git} alt='git logo'/>
+        <img src={figma} alt='figma logo'/>
+        <img src={netlify} alt='netlify logo'/>
+        <img src={boot} alt='bootstrap logo' />
+      </div>
     </div>
   )
 }
