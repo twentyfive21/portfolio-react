@@ -152,12 +152,10 @@
     .projects-container img {
         width: 250px;
     }
-   }
-   @media (max-width: 360px) {
     .filter-container {
-       display: flex;
-       flex-direction: column;
-    }
+        display: flex;
+        flex-direction: column;
+     }
    }
    @media (max-width: 280px) {
     .projects-container img {
