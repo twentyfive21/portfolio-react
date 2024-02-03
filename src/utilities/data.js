@@ -5,6 +5,7 @@ import nasa from '../assets/projects/nasa.png'
 import polar from '../assets/projects/polar.png'
 import insta from '../assets/projects/insta.png'
 import music from '../assets/projects/music.png'
+import bakery from '../assets/projects/bakery.png'
 
 // 1140 x 813 
 const data = [
@@ -29,29 +30,36 @@ const data = [
         img: polar,
         url: 'https://polaroidpalette.netlify.app'
     },
-    {
+    { 
         key: 3,
+        name: 'Tous Les Jours',
+        category: 'Javascript', 
+        img: bakery,
+        url: 'https://tous-les-jours.netlify.app/'
+    },
+    {
+        key: 4,
         name: 'Nasa Astronomy',
         category: 'Javascript', 
         img: nasa,
         url: 'https://explore-astronomy.netlify.app/'
     },
     {
-        key: 4,
+        key: 5,
         name: 'LGL',
         category: 'HTML & CSS', 
         img: lgl,
         url: 'https://lglbyevan.com/' 
     },
     {
-        key: 5,
+        key: 6,
         name: 'To-do List',
         category: 'Javascript', 
         img: list,
         url: 'https://todolistbytina.netlify.app/' 
     },
     {
-        key:6,
+        key:7,
         name: 'Sweet Berries',
         category: 'HTML & CSS', 
         img: cooking,
