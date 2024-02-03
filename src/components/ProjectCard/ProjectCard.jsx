@@ -1,6 +1,6 @@
 function ProjectCard({project}) {
   return (
-    <a href={project.url}>
+    <a href={project.url} target="_blank">
       <section>
         <img src={project.img}  />
         <h3>{project.name}</h3>
