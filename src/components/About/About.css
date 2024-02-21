@@ -2,9 +2,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgba( 232, 197, 228, 0.35 );
-    backdrop-filter: blur( 6.5px );
-    -webkit-backdrop-filter: blur( 6.5px );
     min-height: 80vh;
     padding: 100px 50px;
 }
