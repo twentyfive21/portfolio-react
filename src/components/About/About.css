@@ -12,10 +12,10 @@
     font-size: 2rem;
 }
 .about-container p {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 .about-container img {
-    height: 400px;
+    height: 350px;
     border-radius: 20px;
     object-fit: cover;
 }
@@ -28,13 +28,12 @@
     font-size: 1.3rem;
     padding: 0px 40px;
 }
-.about-card h2 {
-    letter-spacing: 7px;
-    margin-top: -10px;
-}
-.about-container section {
+.about-card section {
     display: flex;
-    padding-bottom: 15px;
+    align-items: center;
+}
+.about-card h2 {
+    letter-spacing: 2px;
 }
 .about-container section img {
     height: 100px;
