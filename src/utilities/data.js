@@ -6,6 +6,7 @@ import polar from '../assets/projects/polar.png'
 import insta from '../assets/projects/insta.png'
 import music from '../assets/projects/music.png'
 import bakery from '../assets/projects/bakery.png'
+import ethereal from '../assets/projects/ethereal.png'
 
 // 1140 x 813 
 const data = [
@@ -39,10 +40,10 @@ const data = [
     },
     {
         key: 4,
-        name: 'Nasa Astronomy',
+        name: 'Ethereal Shopping',
         category: 'Javascript', 
-        img: nasa,
-        url: 'https://explore-astronomy.netlify.app/'
+        img: ethereal,
+        url: 'https://shopethereal.netlify.app/' 
     },
     {
         key: 5,
@@ -53,13 +54,20 @@ const data = [
     },
     {
         key: 6,
+        name: 'Nasa Astronomy',
+        category: 'Javascript', 
+        img: nasa,
+        url: 'https://explore-astronomy.netlify.app/'
+    },
+    {
+        key: 7,
         name: 'To-do List',
         category: 'Javascript', 
         img: list,
         url: 'https://todolistbytina.netlify.app/' 
     },
     {
-        key:7,
+        key:8,
         name: 'Sweet Berries',
         category: 'HTML & CSS', 
         img: cooking,
