@@ -15,7 +15,7 @@ const data = [
         name: 'Instagram',
         category: 'Fullstack', 
         img: insta,
-        url: 'https://instagram-view.netlify.app/'
+        url: 'https://instagram-site.vercel.app/'
     },
     { 
         key: 1,
