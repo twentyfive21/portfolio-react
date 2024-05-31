@@ -8,6 +8,9 @@ import boot from '../../assets/icons/bootstrap2.png'
 import netlify from '../../assets/icons/netlify2.png'
 import git from '../../assets/icons/git2.png'
 import graphQL from '../../assets/icons/graphQL.png'
+import sql from '../../assets/icons/mysql.png'
+import java from '../../assets/icons/java.png'
+import intellj from '../../assets/icons/intellj.png'
 
 
 function Skills() {
@@ -15,6 +18,8 @@ function Skills() {
     <div className='skills-container'>
       <h2>Tech Stack</h2>
       <div className='skills'>
+        <img src={java} alt='javalogo' />
+        <img src={sql} alt='mysql logo' />
         <img src={reactImg}  alt='react logo'/>
         <img src={js} alt='javascript logo'/>
         <img src={graphQL} alt='grapghQL logo'/>
@@ -24,6 +29,7 @@ function Skills() {
         <img src={figma} alt='figma logo'/>
         <img src={netlify} alt='netlify logo'/>
         <img src={boot} alt='bootstrap logo' />
+        <img src={intellj} alt='intellij logo'/>
       </div>
     </div>
   )
