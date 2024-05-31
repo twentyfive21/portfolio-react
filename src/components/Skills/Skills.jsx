@@ -10,7 +10,8 @@ import git from '../../assets/icons/git2.png'
 import graphQL from '../../assets/icons/graphQL.png'
 import sql from '../../assets/icons/mysql.png'
 import java from '../../assets/icons/java.png'
-import intellj from '../../assets/icons/intellj.png'
+import intellj from '../../assets/icons/Intellj.png'
+
 
 
 function Skills() {
@@ -29,7 +30,7 @@ function Skills() {
         <img src={figma} alt='figma logo'/>
         <img src={netlify} alt='netlify logo'/>
         <img src={boot} alt='bootstrap logo' />
-        <img src={intellj} alt='intellij logo'/>
+        <img src={intellj} alt='intellj logo' />
       </div>
     </div>
   )
