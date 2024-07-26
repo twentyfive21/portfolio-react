@@ -11,6 +11,7 @@ import graphQL from '../../assets/icons/graphQL.png'
 import sql from '../../assets/icons/mysql.png'
 import java from '../../assets/icons/java.png'
 import intellj from '../../assets/icons/Intellj.png'
+import splunk from '../../assets/icons/splunk.jpg'
 
 
 
@@ -19,9 +20,10 @@ function Skills() {
     <div className='skills-container'>
       <h2>Tech Stack</h2>
       <div className='skills'>
+      <img src={splunk} alt='splunk logo' />
         <img src={java} alt='javalogo' />
         <img src={sql} alt='mysql logo' />
-        <img src={reactImg}  alt='react logo'/>
+        <img src={reactImg} alt='react logo'/>
         <img src={js} alt='javascript logo'/>
         <img src={graphQL} alt='grapghQL logo'/>
         <img src={css} alt='css logo'/>
